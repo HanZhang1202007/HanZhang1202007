@@ -2,7 +2,7 @@
 - 👀 I’m interested in every human being
 - 🌱 I’m currently learning data science, social science
 - 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me hanzhang1202007@gmail.com
+- 📫 Don't reach me!
 
 <!---
 HanZhang1202007/HanZhang1202007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
